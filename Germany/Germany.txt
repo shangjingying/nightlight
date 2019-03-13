@@ -12,7 +12,7 @@ Description : 'Plots the change of night lights in Germany from 1993-1023'
 
 Keywords : 
 
-- raster data
+-raster data
 
 -plot
 
