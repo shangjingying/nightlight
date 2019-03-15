@@ -1,22 +1,23 @@
-Name of QuantLet : Germany
+Name of QuantLet : Indonesia
 
 
 
-Published in : 
+Published in : Measuring Economic Growth From Outer Space
 
 
 
-Description : 'Plots the change of night lights in Germany from 1993-1023'
+Description : 'Plots the night lights data from Indonesia in 1997 and in 1998
+                       and observe the decrease and increase of night lights because of fiscal crisis'
 
 
 
 Keywords : 
 
+-Indonesia
+
+-finicial crisis
+
 -raster data
-
--plot
-
--animation
 
 
 
@@ -27,9 +28,4 @@ Author : Jingying Shang
 
 
 Submitted : Thu, March 13 2019 by Jingying Shang
-
-
-
-Example : Plot of points presenting law of large numbers.
-
 
