@@ -1,0 +1,35 @@
+Name of QuantLet : Germany
+
+
+
+Published in : Measuring Economic Growth From Outer Space
+
+
+
+Description : 'Plots the long term change of night lights in Germany from 1993-2003'
+
+
+
+Keywords : 
+
+-raster data
+
+-long-term growth
+
+-animation
+
+
+
+
+
+Author : Jingying Shang
+
+
+
+Submitted : Thu, March 13 2019 by Jingying Shang
+
+
+
+
+
+
