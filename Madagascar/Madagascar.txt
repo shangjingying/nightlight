@@ -1,0 +1,30 @@
+Name of QuantLet : Madagascar
+
+
+
+Published in : Measuring Economic Growth From Outer Space
+
+
+
+Description : 'Plots the night lights data from Madagascar 
+                       and observe the development of a small town Ilakaka because of the discovery of gemstones'
+
+
+
+Keywords : 
+
+-Madacasgar
+
+-gemstones
+
+-raster data
+
+
+
+
+
+Author : Jingying Shang
+
+
+
+Submitted : Thu, March 13 2019 by Jingying Shang
