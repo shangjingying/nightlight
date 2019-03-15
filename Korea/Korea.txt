@@ -1,0 +1,35 @@
+Name of QuantLet : Korea
+
+
+
+Published in : Measuring Economic Growth From Outer Space
+
+
+
+Description : 'Plots the night lights data from Korean Peninsula and compare the differece performence between the North Korea and the South Korea
+
+
+
+Keywords : 
+
+-Korean Peninsula 
+
+-comparision
+
+-raster data
+
+
+
+
+
+Author : Jingying Shang
+
+
+
+Submitted : Thu, March 13 2019 by Jingying Shang
+
+
+
+
+
+
